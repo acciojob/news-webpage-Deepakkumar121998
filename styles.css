@@ -39,9 +39,12 @@ body{
 	border-radius:12px;
 	border:none;
 }
-h3{
-	
+h2{
 	text-align:center;
+}
+p{
+	justify-content:center;
+	
 }
 img{
 	width:80px;
