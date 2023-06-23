@@ -30,6 +30,7 @@ body{
 	border:1px solid ;
 	border-radius:12px;
 	border:none;
+	padding:17px;
 }
 .pictorial-news-section{
 	width:140px;
@@ -38,6 +39,8 @@ body{
 	border:1px solid ;
 	border-radius:12px;
 	border:none;
+	justify-content: center;
+   align-items: center;
 }
 h2{
 	text-align:center;
